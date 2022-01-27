@@ -16,7 +16,7 @@ In my case, I did a simple game where the player (Let's call him Pit) is really 
 all the donuts on screen before he can get the Nutella jar, also there's an angry alien trying to stop him.
 This is how the game looks:
 
-  ![preview](https://github.com/durantecode/42-Cursus/blob/master/c-projects/so_long/preview.gif)
+  ![preview](https://github.com/durantecode/so_long/blob/master/preview.gif)
 
 It includes all the bonuses, enemy patrols, animations and movement counter displayed on screen.
 Feel free to clone and execute the game:
